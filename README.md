@@ -1,4 +1,3 @@
 # best-repo-ever
-
-Adding some text
+Changes to the README
 
